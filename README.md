@@ -27,8 +27,14 @@ PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotic
 
 ### Languages and tools
 
-<!-- Add your PNG icons here -->
+<img align="left" alt="Python" width="28px" src="./assets/icons/python.png" />
+<img align="left" alt="KiCad" width="28px" src="./assets/icons/kicad.png" />
+<img align="left" alt="ESP32" width="28px" src="./assets/icons/esp32.png" />
+<img align="left" alt="C++" width="28px" src="./assets/icons/cplusplus.png" />
+<img align="left" alt="Git" width="28px" src="./assets/icons/git.png" />
 
+<br>
+<br>
 ### Contact
 
 [Portfolio](https://diegolox.github.io/) · [GitHub](https://github.com/Diegolox) · [LinkedIn](https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/) · [Email](mailto:diegolop.work@gmail.com)
