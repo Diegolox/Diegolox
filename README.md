@@ -2,7 +2,7 @@
 
 **Electronic and Automation Engineer**
 
-PCB Design · Embedded Systems · Robotics · IoT · Python for Engineering
+PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotics 
 
 ---
 
@@ -12,13 +12,6 @@ PCB Design · Embedded Systems · Robotics · IoT · Python for Engineering
 * **[TheBUG01](https://github.com/Diegolox/TheBUG01)** — First version of a custom PCB robotic platform.
 * **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)** — Python GUI for ESP32 robot calibration.
 
----
-
-## Interests
-
-PCB Design · Embedded Systems · Robotics · IoT · Control · ML
-
----
 
 ## Contact
 
