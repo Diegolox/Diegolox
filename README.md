@@ -24,8 +24,6 @@ PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotic
 <img align="left" alt="Git" width="28px" src="./assets/icons/git.png" />
 <img align="left" alt="Fusion 360" width="28px" src="./assets/icons/fusion360.png" />
 
-<br>
-<br>
 
 ---
 ## Contact
