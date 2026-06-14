@@ -17,13 +17,12 @@ PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotic
 
 ## Languages and tools
 
-<img align="left" alt="KiCad" width="28px" src="./assets/icons/kicad.png" />
-<img align="left" alt="ESP32" width="28px" src="./assets/icons/esp32.png" />
+<img align="left" alt="Python" width="28px" src="./assets/icons/kicad.png" />
+<img align="left" alt="Python" width="28px" src="./assets/icons/altium.png" />
+<img align="left" alt="C++" width="28px" src="./assets/icons/C.png" />
+<img align="left" alt="C++" width="28px" src="./assets/icons/C++.png" />
+<img align="left" alt="Git" width="28px" src="./assets/icons/ESP.png" />
 <img align="left" alt="Python" width="28px" src="./assets/icons/python.png" />
-<img align="left" alt="C++" width="28px" src="./assets/icons/cplusplus.png" />
-<img align="left" alt="Git" width="28px" src="./assets/icons/git.png" />
-<img align="left" alt="Fusion 360" width="28px" src="./assets/icons/fusion360.png" />
-
 <br>
 <br>
 <br>
