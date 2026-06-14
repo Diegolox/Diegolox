@@ -1,16 +1,29 @@
-## Hi there 👋
+# Diego López Esteban
 
-<!--
-**Diegolox/Diegolox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero Electrónico y Automático**
+**Electronic and Automation Engineer**
 
-Here are some ideas to get you started:
+PCB Design · Embedded Systems · Robotics · IoT · Python for Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured projects / Proyectos destacados
+
+* **[TheBUG02](https://github.com/Diegolox/TheBUG02)** — ESP32-based robotic control PCB.
+* **[TheBUG01](https://github.com/Diegolox/TheBUG01)** — First version of a custom PCB robotic platform.
+* **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)** — Python GUI for ESP32 robot calibration.
+
+---
+
+## Interests / Áreas
+
+PCB Design · Embedded Systems · Robotics · IoT · Control · ML
+
+---
+
+## Contact
+
+* Portfolio: https://diegolox.github.io/
+* GitHub: https://github.com/Diegolox
+* LinkedIn: https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/
+* Email: [diegolop.work@gmail.com](mailto:diegolop.work@gmail.com)
