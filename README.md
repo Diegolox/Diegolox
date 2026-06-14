@@ -1,6 +1,5 @@
 # Diego López Esteban
 
-**Ingeniero Electrónico y Automático**
 **Electronic and Automation Engineer**
 
 PCB Design · Embedded Systems · Robotics · IoT · Python for Engineering
