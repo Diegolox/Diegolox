@@ -27,6 +27,7 @@ PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotic
 <br>
 <br>
 
+---
 ## Contact
 
 [Portfolio](https://diegolox.github.io/) · [GitHub](https://github.com/Diegolox) · [LinkedIn](https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/) · [Email](mailto:diegolop.work@gmail.com)
