@@ -1,3 +1,6 @@
+
+<img align="center" alt="Banner" src="./assets/icons/BANNER_GITHUB_1.png" />
+
 # Diego López Esteban
 
 **Electronic and Automation Engineer**
