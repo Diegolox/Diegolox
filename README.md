@@ -1,10 +1,6 @@
 
 <img align="center" alt="Banner" width="1200" src="./assets/icons/BANNER_GITHUB_1.png" />
 
-# Diego López Esteban
-
-**Electronic and Automation Engineer**
-
 PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotics
 
 ## Featured projects
