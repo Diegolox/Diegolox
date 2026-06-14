@@ -12,7 +12,7 @@
  : Custom PCB robotic platform.
 
 **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
- : Python GUI for ESP32 robot calibration.
+ : Python GUI for line follower robot calibration.
 
 ## Languages and tools
 
