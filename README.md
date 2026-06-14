@@ -1,5 +1,5 @@
 
-<img align="center" alt="Banner" src="./assets/icons/BANNER_GITHUB_1.png" />
+<img align="center" alt="Banner" width="400px" src="./assets/icons/BANNER_GITHUB_1.png" />
 
 # Diego López Esteban
 
