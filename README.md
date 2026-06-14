@@ -5,11 +5,11 @@
 
 ## Featured projects
 
-**[TheBUG02](https://github.com/Diegolox/TheBUG02)**
- : ESP32-based robotic control PCB.
-
 **[TheBUG01](https://github.com/Diegolox/TheBUG01)**
  : Custom PCB robotic platform.
+
+**[TheBUG02](https://github.com/Diegolox/TheBUG02)**
+ : An evolution from TheBUG01.
 
 **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
  : Python GUI for line follower robot calibration.
