@@ -1,7 +1,7 @@
 
 <img align="center" alt="Banner" width="1200" src="./assets/icons/BANNER_GITHUB_1.png" />
 
-PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotics
+> Learning by building: PCBs, embedded systems, robotics, IoT, ML and engineering tools.
 
 ## Featured projects
 
