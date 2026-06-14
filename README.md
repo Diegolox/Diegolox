@@ -6,9 +6,14 @@ PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotic
 
 ## Featured projects
 
-**[TheBUG02](https://github.com/Diegolox/TheBUG02)** — ESP32-based robotic control PCB
-**[TheBUG01](https://github.com/Diegolox/TheBUG01)** — Custom PCB robotic platform
-**[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)** — Python GUI for ESP32 robot calibration
+**[TheBUG02](https://github.com/Diegolox/TheBUG02)**
+ESP32-based robotic control PCB.
+
+**[TheBUG01](https://github.com/Diegolox/TheBUG01)**
+Custom PCB robotic platform.
+
+**[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
+Python GUI for ESP32 robot calibration.
 
 ## Languages and tools
 
