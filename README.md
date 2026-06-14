@@ -18,7 +18,7 @@ PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotic
 ## Languages and tools
 
 <img align="left" alt="Python" width="28px" src="./assets/icons/kicad.png" />
-<img align="left" alt="Python" width="28px" src="./assets/icons/altium.png" />
+<img align="left" alt="Python" width="60px" src="./assets/icons/altium.png" />
 <img align="left" alt="C++" width="28px" src="./assets/icons/C.png" />
 <img align="left" alt="C++" width="28px" src="./assets/icons/C++.png" />
 <img align="left" alt="Git" width="28px" src="./assets/icons/ESP.png" />
