@@ -5,7 +5,7 @@
 PCB Design · Embedded Systems · ML · IoT · Python for Engineering · Robotics 
 
 ---
-\n
+ 
 ## Featured projects
 
 * **[TheBUG02](https://github.com/Diegolox/TheBUG02)** — ESP32-based robotic control PCB.
