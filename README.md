@@ -14,6 +14,10 @@
 **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
  : Python GUI for line follower robot calibration.
 
+**[SUMO JRG26]( https://github.com/Diegolox/SUMO_JRG26)**
+ : A sumo algorithm for robot combat.
+
+
 ## Languages and tools
 
 <img align="left" alt="Python" width="28px" src="./assets/icons/kicad.png" />
