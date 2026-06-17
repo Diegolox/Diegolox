@@ -17,7 +17,7 @@
 ## Languages and tools
 
 <img align="left" alt="Python" width="28px" src="./assets/icons/kicad.png" />
-<img align="left" alt="Python" width="60px" src="./assets/icons/altium.svg" />
+<img align="left" alt="Python" width="60px" src="./assets/icons/altium.png" />
 <img align="left" alt="C++" width="30px" src="./assets/icons/C.png" />
 <img align="left" alt="C++" width="30px" src="./assets/icons/C++.png" />
 <img align="left" alt="Git" width="30px" src="./assets/icons/ESP.png" />
