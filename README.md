@@ -1,47 +1,38 @@
+<img align="center" alt="Banner" width="1200" src="./assets/icons/BANNER_GITHUB_1.png" />
+
+> Learning by building: PCBs, embedded systems, robotics, IoT and ML
+
 ## Featured projects
 
-A small selection of projects where I combine PCB design, embedded systems, robotics and engineering software.
+A small selection of projects where I combine hardware design, embedded systems, robotics and engineering software.
+
+
+**[TheBUG01](https://github.com/Diegolox/TheBUG01)**
+Custom PCB robotic platform.
+
+**[TheBUG02](https://github.com/Diegolox/TheBUG02)**
+An evolution from TheBUG01.
+
+**[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
+Python GUI for line follower robot calibration.
+
+**[SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)**
+A sumo algorithm for robot combat.
 
 [View all projects →](https://github.com/Diegolox?tab=repositories)
 
-### Hardware
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Languages and tools
 
-### [TheBUG01](https://github.com/Diegolox/TheBUG01)
+<img align="left" alt="KiCad" width="28px" src="./assets/icons/kicad.png" />
+<img align="left" alt="Altium Designer" width="60px" src="./assets/icons/altium.png" />
+<img align="left" alt="C" width="30px" src="./assets/icons/C.png" />
+<img align="left" alt="C++" width="30px" src="./assets/icons/C++.png" />
+<img align="left" alt="ESP32" width="30px" src="./assets/icons/ESP.png" />
+<img align="left" alt="Python" width="28px" src="./assets/icons/python.png" />
 
-Custom PCB robotic platform designed as a base for differential robot prototyping.
+<br clear="left" />
 
-</td>
-<td width="50%" valign="top">
+## Contact
 
-### [TheBUG02](https://github.com/Diegolox/TheBUG02)
-
-Second iteration of TheBUG platform, focused on improving the original hardware concept.
-
-</td>
-</tr>
-</table>
-
-### Software
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)
-
-Python GUI for line follower robot calibration, testing and parameter adjustment.
-
-</td>
-<td width="50%" valign="top">
-
-### [SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)
-
-Sumo robot combat algorithm developed for fast detection and reaction inside the ring.
-
-</td>
-</tr>
-</table>
+[Portfolio](https://diegolox.github.io/) · [GitHub](https://github.com/Diegolox) · [LinkedIn](https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/) · [Email](mailto:diegolop.work@gmail.com)
