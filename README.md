@@ -6,7 +6,7 @@
 
 A small selection of projects where I combine hardware design, embedded systems, robotics and engineering software.
 
-| Area     | Project                                                  | Description                                     |
+| ###Area     | ###Project                                                  | ###Description                                     |
 | -------- | -------------------------------------------------------- | ----------------------------------------------- |
 | Hardware | **[TheBUG01](https://github.com/Diegolox/TheBUG01)**     | Custom PCB robotic platform.                    |
 | Hardware | **[TheBUG02](https://github.com/Diegolox/TheBUG02)**     | An evolution from TheBUG01.                     |
