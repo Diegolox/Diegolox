@@ -6,7 +6,7 @@
 
 A small selection of projects where I combine hardware design, embedded systems, robotics and engineering software.
 
-### <img src="https://img.shields.io/badge/HARDWARE-0D9488?style=flat-square&labelColor=111827" alt="Hardware" />
+### Hardware
 
 **[TheBUG01](https://github.com/Diegolox/TheBUG01)**
 Custom PCB robotic platform.
@@ -14,7 +14,7 @@ Custom PCB robotic platform.
 **[TheBUG02](https://github.com/Diegolox/TheBUG02)**
 An evolution from TheBUG01.
 
-### <img src="https://img.shields.io/badge/SOFTWARE-2563EB?style=flat-square&labelColor=111827" alt="Software" />
+### Software
 
 **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
 Python GUI for line follower robot calibration.
