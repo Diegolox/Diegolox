@@ -19,7 +19,7 @@ Python GUI for line follower robot calibration.
 **[SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)**
 A sumo algorithm for robot combat.
 
-[View all projects →](https://github.com/Diegolox?tab=repositories)
+[View all projects here](https://github.com/Diegolox?tab=repositories)
 
 
 ## Languages and tools
