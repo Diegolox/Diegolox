@@ -1,25 +1,65 @@
-
+**
 <img align="center" alt="Banner" width="1200" src="./assets/icons/BANNER_GITHUB_1.png" />
 
 > Learning by building: PCBs, embedded systems, robotics, IoT and ML
 
 ## Featured projects
 
-### HARDWARE
+A small selection of projects where I combine PCB design, embedded systems, robotics and engineering software.
 
-**[TheBUG01](https://github.com/Diegolox/TheBUG01)**
- : Custom PCB robotic platform.
+---
 
-**[TheBUG02](https://github.com/Diegolox/TheBUG02)**
- : An evolution from TheBUG01.
+### Hardware
 
-### SOFTWARE
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
- : Python GUI for line follower robot calibration.
+#### [TheBUG01](https://github.com/Diegolox/TheBUG01)
 
-**[SUMO JRG26]( https://github.com/Diegolox/SUMO_JRG26)**
- : A sumo algorithm for robot combat.
+Custom PCB robotic platform designed as a base for differential robot prototyping.
+
+`PCB Design` `ESP32` `Robotics` `KiCad`
+
+</td>
+<td width="50%" valign="top">
+
+#### [TheBUG02](https://github.com/Diegolox/TheBUG02)
+
+Second iteration of TheBUG platform, focused on improving the original hardware concept.
+
+`PCB Design` `Embedded Systems` `Robotics`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Software
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)
+
+Python GUI for line follower robot calibration, testing and parameter adjustment.
+
+`Python` `GUI` `Robotics` `Calibration`
+
+</td>
+<td width="50%" valign="top">
+
+#### [SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)
+
+Sumo robot combat algorithm developed for fast detection and reaction inside the ring.
+
+`C/C++` `Robotics` `Embedded Systems` `Control`
+
+</td>
+</tr>
+</table>
 
 
 ## Languages and tools
@@ -37,3 +77,4 @@
 ## Contact
 
 [Portfolio](https://diegolox.github.io/) · [GitHub](https://github.com/Diegolox) · [LinkedIn](https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/) · [Email](mailto:diegolop.work@gmail.com)
+**
