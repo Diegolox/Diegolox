@@ -1,4 +1,4 @@
-**
+
 <img align="center" alt="Banner" width="1200" src="./assets/icons/BANNER_GITHUB_1.png" />
 
 > Learning by building: PCBs, embedded systems, robotics, IoT and ML
