@@ -5,35 +5,49 @@
 
 ## Featured projects
 
-A compact selection of projects where I combine hardware design, embedded systems, robotics and engineering software.
+A small selection of projects where I combine PCB design, embedded systems, robotics and engineering software.
 
 ### Hardware
 
-<dl>
-  <dt><strong><a href="https://github.com/Diegolox/TheBUG01">01 · TheBUG01</a></strong></dt>
-  <dd>
-    Custom PCB robotic platform designed as a base for differential robot prototyping.
-  </dd>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <dt><strong><a href="https://github.com/Diegolox/TheBUG02">02 · TheBUG02</a></strong></dt>
-  <dd>
-    Second iteration of TheBUG platform, focused on improving the original hardware concept.
-  </dd>
-</dl>
+### [TheBUG01](https://github.com/Diegolox/TheBUG01)
+
+Custom PCB robotic platform designed as a base for differential robot prototyping.
+
+</td>
+<td width="50%" valign="top">
+
+### [TheBUG02](https://github.com/Diegolox/TheBUG02)
+
+Second iteration of TheBUG platform, focused on improving the original hardware concept.
+
+</td>
+</tr>
+</table>
 
 ### Software
 
-<dl>
-  <dt><strong><a href="https://github.com/Diegolox/SIGUEPOP">03 · SIGUEPOP</a></strong></dt>
-  <dd>
-    Python GUI for line follower robot calibration, testing and parameter adjustment.
-  </dd>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <dt><strong><a href="https://github.com/Diegolox/SUMO_JRG26">04 · SUMO JRG26</a></strong></dt>
-  <dd>
-    Sumo robot combat algorithm developed for fast detection and reaction inside the ring.
-  </dd>
-</dl>
+### [SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)
+
+Python GUI for line follower robot calibration, testing and parameter adjustment.
+
+</td>
+<td width="50%" valign="top">
+
+### [SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)
+
+Sumo robot combat algorithm developed for fast detection and reaction inside the ring.
+
+</td>
+</tr>
+</table>
 
 ## Languages and tools
 
