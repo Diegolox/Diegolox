@@ -5,11 +5,15 @@
 
 ## Featured projects
 
+### HARDWARE
+
 **[TheBUG01](https://github.com/Diegolox/TheBUG01)**
  : Custom PCB robotic platform.
 
 **[TheBUG02](https://github.com/Diegolox/TheBUG02)**
  : An evolution from TheBUG01.
+
+### SOFTWARE
 
 **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
  : Python GUI for line follower robot calibration.
