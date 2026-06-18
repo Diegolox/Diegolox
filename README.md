@@ -5,62 +5,31 @@
 
 ## Featured projects
 
-A small selection of projects where I combine PCB design, embedded systems, robotics and engineering software.
+Selected projects combining PCB design, embedded systems, robotics and engineering software.
 
 ---
 
 ### Hardware
 
-<table>
-<tr>
-<td width="50%" valign="top">
+* **[TheBUG01](https://github.com/Diegolox/TheBUG01)**
+  Custom PCB robotic platform designed as a base for differential robot prototyping.
+  `PCB Design` `ESP32` `Robotics` `KiCad`
 
-#### [TheBUG01](https://github.com/Diegolox/TheBUG01)
-
-Custom PCB robotic platform designed as a base for differential robot prototyping.
-
-`PCB Design` `ESP32` `Robotics` `KiCad`
-
-</td>
-<td width="50%" valign="top">
-
-#### [TheBUG02](https://github.com/Diegolox/TheBUG02)
-
-Second iteration of TheBUG platform, focused on improving the original hardware concept.
-
-`PCB Design` `Embedded Systems` `Robotics`
-
-</td>
-</tr>
-</table>
+* **[TheBUG02](https://github.com/Diegolox/TheBUG02)**
+  Second iteration of TheBUG platform, focused on improving the original hardware concept.
+  `PCB Design` `Embedded Systems` `Robotics`
 
 ---
 
 ### Software
 
-<table>
-<tr>
-<td width="50%" valign="top">
+* **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**
+  Python GUI for line follower robot calibration, testing and parameter adjustment.
+  `Python` `GUI` `Robotics` `Calibration`
 
-#### [SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)
-
-Python GUI for line follower robot calibration, testing and parameter adjustment.
-
-`Python` `GUI` `Robotics` `Calibration`
-
-</td>
-<td width="50%" valign="top">
-
-#### [SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)
-
-Sumo robot combat algorithm developed for fast detection and reaction inside the ring.
-
-`C/C++` `Robotics` `Embedded Systems` `Control`
-
-</td>
-</tr>
-</table>
-
+* **[SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)**
+  Sumo robot combat algorithm developed for fast detection and reaction inside the ring.
+  `C/C++` `Robotics` `Embedded Systems` `Control`
 
 ## Languages and tools
 
