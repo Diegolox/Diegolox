@@ -26,6 +26,32 @@ A small selection of projects where I combine hardware design, embedded systems,
 
 <br clear="left" />
 
+## Repository lists
+
+<details>
+<summary><strong>Hardware projects</strong></summary>
+
+<br>
+
+| Project                                              | Description                  |
+| ---------------------------------------------------- | ---------------------------- |
+| **[TheBUG01](https://github.com/Diegolox/TheBUG01)** | Custom PCB robotic platform. |
+| **[TheBUG02](https://github.com/Diegolox/TheBUG02)** | An evolution from TheBUG01.  |
+
+</details>
+
+<details>
+<summary><strong>Software projects</strong></summary>
+
+<br>
+
+| Project                                                  | Description                                     |
+| -------------------------------------------------------- | ----------------------------------------------- |
+| **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**     | Python GUI for line follower robot calibration. |
+| **[SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)** | A sumo algorithm for robot combat.              |
+
+</details>
+
 ## Contact
 
 [Portfolio](https://diegolox.github.io/) · [GitHub](https://github.com/Diegolox) · [LinkedIn](https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/) · [Email](mailto:diegolop.work@gmail.com)
