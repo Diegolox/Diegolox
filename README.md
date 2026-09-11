@@ -36,7 +36,7 @@ A small selection of projects where I combine hardware design, embedded systems,
 | ---------------------------------------------------- | ---------------------------- |
 | **[TheBUG01](https://github.com/Diegolox/TheBUG01)** | Custom PCB robotic platform. |
 | **[TheBUG02](https://github.com/Diegolox/TheBUG02)** | An evolution from TheBUG01.  |
-| **[A SIMPLE BUCK](https://github.com/Diegolox/A-SIMPLE-BUCK)** | Only a buck.  |
+| **[A SIMPLE BUCK](https://github.com/Diegolox/A-SIMPLE-BUCK)** | Just a buck.  |
 
 </details>
 
