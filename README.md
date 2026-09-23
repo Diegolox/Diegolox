@@ -4,7 +4,7 @@
 
 ## Featured projects
 
-A small selection of projects where I combine hardware design, embedded systems, robotics and engineering software.
+I'm Diego López Esteban, and this is a small selection of projects where I combine hardware design, embedded systems, robotics and engineering software.
 
 | Area     | Project                                                  | Description                                     |
 | -------- | -------------------------------------------------------- | ----------------------------------------------- |
