@@ -12,6 +12,9 @@ A small selection of projects where I combine hardware design, embedded systems,
 | Hardware | **[TheBUG02](https://github.com/Diegolox/TheBUG02)**     | An evolution from TheBUG01.                     |
 | Software | **[SIGUEPOP](https://github.com/Diegolox/SIGUEPOP)**     | Python GUI for line follower robot calibration. |
 | Software | **[SUMO JRG26](https://github.com/Diegolox/SUMO_JRG26)** | A sumo algorithm for robot combat.              |
+| Software | **[FOLLOW_THE_CATAPUM](https://github.com/Diegolox/FOLLOW-THE-CATAPUM)** | Telemetry software for ALUnizar rocketry team.|
+
+
 
 [View all projects here →](https://github.com/Diegolox?tab=repositories)
 
