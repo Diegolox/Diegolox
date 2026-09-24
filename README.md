@@ -56,6 +56,14 @@ I'm Diego López Esteban, and this is a small selection of projects where I comb
 
 </details>
 
+## [TEMPORAL] Laboratorio de comunicaciones IoT
+| Práctica                                                 |
+| -------------------------------------------------------- |
+| **[P1_ARD_NANO](https://github.com/Diegolox/P1_ARD_NANO_33_BLE)**     | 
+| **[P2_RTOS](https://github.com/Diegolox/P2_FIRMWARE_BASADO_EN_RTOS)** | 
+
+
+
 ## Contact
 
 [Portfolio](https://diegolox.github.io/) · [GitHub](https://github.com/Diegolox) · [LinkedIn](https://www.linkedin.com/in/diego-l%C3%B3pez-esteban-902370383/) · [Email](mailto:diegolop.work@gmail.com)
