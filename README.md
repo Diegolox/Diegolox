@@ -61,6 +61,8 @@ I'm Diego López Esteban, and this is a small selection of projects where I comb
 | -------------------------------------------------------- |
 | **[P1_ARD_NANO](https://github.com/Diegolox/P1_ARD_NANO_33_BLE)**     | 
 | **[P2_RTOS](https://github.com/Diegolox/P2_FIRMWARE_BASADO_EN_RTOS)** | 
+| **[P2_WIFI](https://github.com/Diegolox/P3_COMUNICACIONES_WIFI_y_stack_IP_ESP32/tree/main)** | 
+
 
 
 
